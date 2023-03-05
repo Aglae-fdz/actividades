@@ -1,4 +1,5 @@
 #Aprobado o reprobado por faltas,adeudos, pago
+#pense que asi no era y hice otro archivo
 faltas= int(input("Ingresa las faltas: "))
 #faltas=1
 if faltas>3:
